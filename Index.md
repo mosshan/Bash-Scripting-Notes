@@ -1,0 +1,42 @@
+#### Basics
+- Variables [[Vars]]
+- Arrays [[Arrays]]
+	- declaration, accessing, printing, length, indices
+- Basic Syntax Rules [[Basic Syntax Rules]]
+- Shell Scripts
+	- overview
+	- shebang
+	- Running: sh, ./ , bash
+- Basic Commands [[Basic Commands]]
+	- cat
+	- echo
+	- which
+	- sleep
+	- open new terminal
+	- get bash version
+#### Math
+- Basic Arithmetic Operations [[Arithmetic Operations]]
+	- expr , echo with operations
+- Floating Point Arithmetic Operations [[Floating Point Arithmetic Operations]]
+	- bc command/language
+#### Logic
+- Conditional Statements
+	- If / if else / elif statements [[If statements]]
+	- Case / switch statements [[Case Statement or Switch Statement]]
+	- Break and Continue statements [[Break and Continue]]
+	- Loops
+		- While Loops [[While Loops]]
+			- basics
+			- while with delay: sleep
+			- read file content
+		- Until Loops [[Until Loops]]
+		- For Loops [[For Loops]]
+		- Select Loops [[Select Loops]]
+- File Operators [[File Test Operators]]
+- Logical Operators [[Logical Operators]]
+	- And, OR
+#### Input and Output
+- User input [[User Input]]
+- Output to files [[Output to File]]
+- Arguments [[Arguments]]
+- Read File [[Read Files]]

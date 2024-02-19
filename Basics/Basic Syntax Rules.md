@@ -1,0 +1,9 @@
+- indentation is personal preference but is not needed for functionality
+	- new lines and spaces affect functionality
+- For conditional statements
+	- Always place spaces around your conditions within brackets.
+	- Use double quotes around variables to prevent word splitting and pathname expansion.
+- Var assignment
+	- must assign vars w no spaces btwn equal sign
+		- num1 = 2 does not work
+		- num1=2 works
